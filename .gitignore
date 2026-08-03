@@ -1,0 +1,15 @@
+# 本机资料路径，不提交到 GitHub
+sources/PATHS.local.md
+
+# 大型课程和资料
+*.mp4
+*.mkv
+*.avi
+*.zip
+*.7z
+*.rar
+
+# 临时文件
+*.tmp
+*.bak
+~$*
