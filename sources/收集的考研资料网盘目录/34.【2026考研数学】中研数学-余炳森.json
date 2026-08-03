@@ -1,0 +1,3240 @@
+{
+  "name": "34.【2026考研数学】中研数学-余炳森",
+  "children": [
+    {
+      "name": "26中研考研数学-私塾弟子班",
+      "children": [
+        {
+          "name": "01.小白入门阶段",
+          "children": [
+            {
+              "name": "04.【选学】初高中知识点衔接课",
+              "children": [
+                {
+                  "name": "高等数学篇：5_初高中常用公式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 58142536
+                },
+                {
+                  "name": "高等数学篇：4_函数图形的绘制.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 138657854
+                },
+                {
+                  "name": "线性代数篇：3_矩阵的数乘、加减法.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7818101
+                },
+                {
+                  "name": "线性代数篇：5_方程组的求解过程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59119869
+                },
+                {
+                  "name": "线性代数篇：4_矩阵的简单乘法与分块运算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 173608863
+                },
+                {
+                  "name": "导学课：初高中知识点衔接导入与目录介绍.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 60297536
+                },
+                {
+                  "name": "概率统计篇：2_随机事件.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 98665173
+                },
+                {
+                  "name": "线性代数篇：2_矩阵.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 29260306
+                },
+                {
+                  "name": "高等数学篇：3_函数三大性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 124626913
+                },
+                {
+                  "name": "高等数学篇：1.函数的概念.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59185917
+                },
+                {
+                  "name": "概率统计篇：3_古典概型、几何概型和伯努利概率.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 100964901
+                },
+                {
+                  "name": "线性代数篇：1_矩阵和向量.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 43218278
+                },
+                {
+                  "name": "高等数学篇：2.常用函数.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 202334778
+                },
+                {
+                  "name": "概率统计篇：1_概率统计常用公式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 58868500
+                }
+              ]
+            },
+            {
+              "name": "01.班会-数学学习指南+备考规划",
+              "children": [
+                {
+                  "name": "班会-数学学习指南+备考规划.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 544697555
+                }
+              ]
+            },
+            {
+              "name": "02.高数0基础入门课",
+              "children": [
+                {
+                  "name": "27 第七章 7.4 多元函数的极值.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 268922465
+                },
+                {
+                  "name": "08 第二章 导数与微分 2.2 隐函数及参数方程确定的函数的导数.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 308953011
+                },
+                {
+                  "name": "01 零基础课程导论及预备章节零基础高等数学入门知识.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 317221199
+                },
+                {
+                  "name": "03 第一章 函数、极限与连续 1.2 极限.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 651135786
+                },
+                {
+                  "name": "14 第四章 不定积分 4.2 积分法.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 604293771
+                },
+                {
+                  "name": "06 第一章 函数、极限与连续 1.5连续与间断.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 346191252
+                },
+                {
+                  "name": "11 第三章 中值定理与导数的应用 3.1 中值定理与洛必达法则（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 204080115
+                },
+                {
+                  "name": "05 第一章 函数、极限与连续 1.4 极限存在准则与重要极限.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 728569891
+                },
+                {
+                  "name": "24 第七章 7.1 多元函数微分学的基本概念.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 487350966
+                },
+                {
+                  "name": "12 第三章 中值定理与导数的应用 3.2 一元微分学应用.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 615327910
+                },
+                {
+                  "name": "25 第七章 7.2 全微分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 290083655
+                },
+                {
+                  "name": "29 第八章 二重积分 8.2 二重积分的计算方法.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 294354548
+                },
+                {
+                  "name": "26 第七章 7.3 多元函数求导法则.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 351162929
+                },
+                {
+                  "name": "22 第六章 微分方程 6.2 可降阶的高阶微分方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 198540229
+                },
+                {
+                  "name": "16 第五章 定积分及应用 5.1 定积分基本概念与性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 571190375
+                },
+                {
+                  "name": "04 第一章 函数、极限与连续 1.3 无穷小与无穷大.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 394320725
+                },
+                {
+                  "name": "17 第五章 定积分及应用 5.2 定积分基本定理与定积分的特殊性质（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 475212848
+                },
+                {
+                  "name": "13 第四章 不定积分 4.1 不定积分的基本概念与性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 229325302
+                },
+                {
+                  "name": "15 第四章 不定积分 4.3 两类特殊函数的不定积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 359336128
+                },
+                {
+                  "name": "18 第五章 定积分及应用 5.2 定积分基本定理与定积分的特殊性质（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 550902448
+                },
+                {
+                  "name": "19 第五章 定积分及应用 5.3 反常积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 428085838
+                },
+                {
+                  "name": "09 第三章 中值定理与导数的应用 3.1 中值定理与洛必达法则（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 522491058
+                },
+                {
+                  "name": "28 第八章 二重积分 8.1 二重积分的概念与性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 242501184
+                },
+                {
+                  "name": "02 第一章 函数、极限与连续 1.1函数及函数的出等特性.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 456580474
+                },
+                {
+                  "name": "10 第三章 中值定理与导数的应用 3.1 中值定理与洛必达法则（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 571220945
+                },
+                {
+                  "name": "20 第五章 定积分及应用 5.4 定积分的几何应用.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 406036829
+                },
+                {
+                  "name": "21 第六章 微分方程 6.1 微分方程基本概念与一阶微分方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 482402315
+                },
+                {
+                  "name": "23 第六章 微分方程 6.3 高阶性微分方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 419119538
+                },
+                {
+                  "name": "07 第二章 导数与微分 2.1导数与微分的基本概念与性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 589528027
+                }
+              ]
+            },
+            {
+              "name": "03.三大计算专项训练",
+              "children": [
+                {
+                  "name": "第一大 算极限：1.2等价无穷小替换（2）加减型.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 188926450
+                },
+                {
+                  "name": "第一大 算极限：2_1极限运算法则.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 34515215
+                },
+                {
+                  "name": "第二大 算微分：7求高阶导数.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 145771627
+                },
+                {
+                  "name": "第一大 算极限：1_3洛必达法则.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 20263327
+                },
+                {
+                  "name": "第一大 算极限：2_3极限的计算-3七种未定式（第二组）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 65331391
+                },
+                {
+                  "name": "导学课：三大计算导入与目录介绍.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 54249541
+                },
+                {
+                  "name": "第二大 算微分：1复合函数求导.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 30939251
+                },
+                {
+                  "name": "第一大 算极限：2_3极限的计算-3七种未定式（第三组）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 76617897
+                },
+                {
+                  "name": "第一大 算极限：1.1 概念与运算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 152427160
+                },
+                {
+                  "name": "第二大 算微分：4隐函数求导.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 367974816
+                },
+                {
+                  "name": "第二大 算微分：3变限积分求导.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59649552
+                },
+                {
+                  "name": "第二大 算微分：5参数方程求导.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 161426671
+                },
+                {
+                  "name": "第三大 算积分：3有理函数积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 108864794
+                },
+                {
+                  "name": "第三大 算积分：1换元法（2）第二类换元法.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 335485933
+                },
+                {
+                  "name": "第一大 算极限：2_2基础题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 154077627
+                },
+                {
+                  "name": "第一大 算极限：1.2等价无穷小替换（1）乘除型.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 272924675
+                },
+                {
+                  "name": "第三大 算积分：1换元法（1）第一类换元法.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 245846471
+                },
+                {
+                  "name": "第三大 算积分：2分部积分法.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 161029699
+                },
+                {
+                  "name": "第一大 算极限：2_3极限的计算-3七种未定式（第一组）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 132134559
+                },
+                {
+                  "name": "第二大 算微分：2分段函数求导.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91461636
+                },
+                {
+                  "name": "第一大 算极限：1_4广义洛必达法则.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 3466253
+                },
+                {
+                  "name": "第二大 算微分：6反函数求导.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 116058698
+                }
+              ]
+            },
+            {
+              "name": "05.入门测评&讲解",
+              "children": [
+                {
+                  "name": "入学测试数学二.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 464286645
+                },
+                {
+                  "name": "入学测试数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 499277995
+                },
+                {
+                  "name": "入学测试数学三.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 496354217
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "04.冲刺实战阶段",
+          "children": [
+            {
+              "name": "02.高数真金题1题1讲解【02年-13年】",
+              "children": [
+                {
+                  "name": "069.题型3 定积分的定义求极限.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41459279
+                },
+                {
+                  "name": "096.题型1 二重积分的概念与性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 44211369
+                },
+                {
+                  "name": "017.题型7  微分的概念与计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41682450
+                },
+                {
+                  "name": "100.题型5 二重积分计算2（5-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 81371247
+                },
+                {
+                  "name": "058.题型8 与定积分相关的等式证明.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 93869344
+                },
+                {
+                  "name": "078.题型9 与定积分相关的不等式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 119295964
+                },
+                {
+                  "name": "126.题型6 级数综合题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 131512235
+                },
+                {
+                  "name": "116.题型7 高于二阶的常系数齐次线性微分方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 9394680
+                },
+                {
+                  "name": "129.题型2 空间解析几何.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 81469630
+                },
+                {
+                  "name": "113.题型4 变量替换下方程的化简.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 63057316
+                },
+                {
+                  "name": "038.题型8 柯西中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36179305
+                },
+                {
+                  "name": "025.题型15 曲线的渐近线.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 58332406
+                },
+                {
+                  "name": "008.题型6 单调有界原理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 159985997
+                },
+                {
+                  "name": "032.题型2 导数的计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 112635231
+                },
+                {
+                  "name": "035.题型5  微分的概念与计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41694719
+                },
+                {
+                  "name": "044.题型14 一元函数微分学方法证明不等式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 129263497
+                },
+                {
+                  "name": "077.题型8 与定积分相关的等式证明.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 93869344
+                },
+                {
+                  "name": "127.题型7 傅里叶级数（数学一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 67999356
+                },
+                {
+                  "name": "005.题型3 函数极限的逆问题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 14039103
+                },
+                {
+                  "name": "019.题型9 拉格朗日中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 183332846
+                },
+                {
+                  "name": "011.题型1 导数的定义.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 137962577
+                },
+                {
+                  "name": "094.题型6 多元函数的区域最值.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 66664223
+                },
+                {
+                  "name": "067.题型2 不定积分计算1（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 72723943
+                },
+                {
+                  "name": "048.题型2 不定积分计算1（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 72723943
+                },
+                {
+                  "name": "076.题型7 与变限积分函数相关问题3（11-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 35325216
+                },
+                {
+                  "name": "021.题型11 泰勒中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91772997
+                },
+                {
+                  "name": "132.题型2 三重积分的应用.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 57190642
+                },
+                {
+                  "name": "036.题型6 罗尔中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 158778410
+                },
+                {
+                  "name": "097.题型2 直角坐标系下交换积分次序.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 33303101
+                },
+                {
+                  "name": "042.题型12 一元函数的最值.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 50298541
+                },
+                {
+                  "name": "057.题型7 与变限积分函数相关问题3（11-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 35325249
+                },
+                {
+                  "name": "091.题型4 无条件极值1（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 117301727
+                },
+                {
+                  "name": "061.题型11 反常积分的计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 32742048
+                },
+                {
+                  "name": "029.题型 变化率问题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7287351
+                },
+                {
+                  "name": "140.题型7 场论初步（散度、旋度）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 24882128
+                },
+                {
+                  "name": "124.题型4 数项级数求和.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 64629122
+                },
+                {
+                  "name": "075.题型7 与变限积分函数相关问题2（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 87504325
+                },
+                {
+                  "name": "128.题型1 向量代数.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 17171242
+                },
+                {
+                  "name": "064.题型13 平面曲线的弧长与旋转体的侧面积.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 111913832
+                },
+                {
+                  "name": "022.题型12 单调性与极值.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 125101073
+                },
+                {
+                  "name": "117.题型8 微分方程的应用（数学一、二、三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 85870292
+                },
+                {
+                  "name": "081.题型12 计算平面图形面积与旋转体体积1（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 100494528
+                },
+                {
+                  "name": "056.题型7 与变限积分函数相关问题2（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 87504314
+                },
+                {
+                  "name": "027.题型17 方程根或零点个数问题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 92674281
+                },
+                {
+                  "name": "060.题型10 反常积分敛散性判定.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 77251656
+                },
+                {
+                  "name": "072.题型5 定积分计算1（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 64299106
+                },
+                {
+                  "name": "007.题型5 计算数列极限.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 14312048
+                },
+                {
+                  "name": "013.题型3 高阶导数.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36431979
+                },
+                {
+                  "name": "093.题型5 条件极值.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 114544404
+                },
+                {
+                  "name": "012.题型2 导数的计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 112636357
+                },
+                {
+                  "name": "137.题型5 第二类曲面积分1（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 77524602
+                },
+                {
+                  "name": "026.题型16 一元函数微分学方法证明不等式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 129229642
+                },
+                {
+                  "name": "034.题型4 切线与法线方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 54444045
+                },
+                {
+                  "name": "106.题型 伯努利、全微分、欧拉方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 62441889
+                },
+                {
+                  "name": "040.题型10 单调性与极值.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 125104892
+                },
+                {
+                  "name": "123.题型3 幂级数求和2（4-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 75136354
+                },
+                {
+                  "name": "065.题型14 一元积分学的物理应用.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 224464983
+                },
+                {
+                  "name": "047.题型1 原函数与不定积分的概念.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 22891559
+                },
+                {
+                  "name": "001.题型1 极限的概念与性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41222653
+                },
+                {
+                  "name": "088.题型2 计算偏导数与全微分2（7-13题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 69284438
+                },
+                {
+                  "name": "114.题型5 积分方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 61711895
+                },
+                {
+                  "name": "112.题型3 线性方程解的结构.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 33632398
+                },
+                {
+                  "name": "016.题型6 变化率问题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7285437
+                },
+                {
+                  "name": "082.题型12 计算平面图形面积与旋转体体积2（5-12题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 74101167
+                },
+                {
+                  "name": "102.题型5 二重积分计算4（16-17题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 21013055
+                },
+                {
+                  "name": "049.题型2 不定积分计算2（4-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55638533
+                },
+                {
+                  "name": "066.题型1 原函数与不定积分的概念.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 22891559
+                },
+                {
+                  "name": "103.题型5 计算二重积分1（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 70814647
+                },
+                {
+                  "name": "053.题型5 定积分计算1（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 64299106
+                },
+                {
+                  "name": "004.题型2-计算函数极限3（15题-22题).mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 51523686
+                },
+                {
+                  "name": "015.题型5 参数方程求导.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 158657080
+                },
+                {
+                  "name": "136.题型4 第一类曲面积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 72823120
+                },
+                {
+                  "name": "134.题型2 第二类平面曲线积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 150520445
+                },
+                {
+                  "name": "121.题型2 幂级数的收敛半径、收敛域.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 64704439
+                },
+                {
+                  "name": "104.题型6 二重积分的应用.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 37118315
+                },
+                {
+                  "name": "050.题型3 定积分的定义求极限.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41459279
+                },
+                {
+                  "name": "089.题型2 计算偏导数与全微分3（14-20题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 67634966
+                },
+                {
+                  "name": "135.题型3 积分与路径无关.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 95283947
+                },
+                {
+                  "name": "139.题型6 空间的第二类曲线积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 95642411
+                },
+                {
+                  "name": "059.题型9 与定积分相关的不等式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 119295964
+                },
+                {
+                  "name": "090.题型3 变量替换下方程的化简.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 76394876
+                },
+                {
+                  "name": "109.题型1 一阶微分方程（6-11题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 37160424
+                },
+                {
+                  "name": "083.题型13 平面曲线的弧长与旋转体的侧面积.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 111913832
+                },
+                {
+                  "name": "130.题型3 空间曲面的切平面与法线，空间曲线的切线与法平面.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 39234118
+                },
+                {
+                  "name": "092.题型4 无条件极值2（6-9题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 68199758
+                },
+                {
+                  "name": "073.题型6 变限积分函数的性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 57819348
+                },
+                {
+                  "name": "084.题型14 一元积分学的物理应用.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 224464983
+                },
+                {
+                  "name": "009.题型7 函数在一点连续与间断（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 63281006
+                },
+                {
+                  "name": "138.题型5 第二类曲面积分2（4-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 56416540
+                },
+                {
+                  "name": "018.题型8 罗尔中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 158795434
+                },
+                {
+                  "name": "115.题型6 可降阶的微分方程（数学一、二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 49438670
+                },
+                {
+                  "name": "055.题型7 与变限积分函数相关问题1（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 104051370
+                },
+                {
+                  "name": "014.题型4 切线与法线方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 54445510
+                },
+                {
+                  "name": "068.题型2 不定积分计算2（4-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55638533
+                },
+                {
+                  "name": "133.题型1 第一类曲线积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 20659366
+                },
+                {
+                  "name": "024.题型14 一元函数的最值.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 50290209
+                },
+                {
+                  "name": "085.题型1 多元微分学的基本概念.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 88921307
+                },
+                {
+                  "name": "043.题型13 曲线的渐近线.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 58333183
+                },
+                {
+                  "name": "074.题型7 与变限积分函数相关问题1（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 104051370
+                },
+                {
+                  "name": "111.题型2 二阶常系数线性微分方程（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 58206446
+                },
+                {
+                  "name": "122.题型3 幂级数求和1（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 81303303
+                },
+                {
+                  "name": "095.题型7 方向导数与梯度.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 67819369
+                },
+                {
+                  "name": "006.题型4 无穷小的比较.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 89460464
+                },
+                {
+                  "name": "086.题型2 计算偏导数4（21-26题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 52725969
+                },
+                {
+                  "name": "037.题型7 拉格朗日中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 183332089
+                },
+                {
+                  "name": "098.题型3 直角坐标与极坐标互换.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 31856747
+                },
+                {
+                  "name": "099.题型4 二重积分的简化计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 24982625
+                },
+                {
+                  "name": "033.题型3 高阶导数.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36426980
+                },
+                {
+                  "name": "110.题型2 二阶常系数线性微分方程（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 61990483
+                },
+                {
+                  "name": "101.题型5 二重积分计算3（11-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 96625922
+                },
+                {
+                  "name": "131.题型1 三重积分计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 117209960
+                },
+                {
+                  "name": "028.题型18 曲率与曲率圆.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 35587826
+                },
+                {
+                  "name": "107.题型 差分方程（数学三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55604296
+                },
+                {
+                  "name": "118.题型9 微分方程的应用（数学一、二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 76720667
+                },
+                {
+                  "name": "119.题型1 数项级数敛散性判定1（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 106607745
+                },
+                {
+                  "name": "063.题型12 计算平面图形面积与旋转体体积2（5-12题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 74101167
+                },
+                {
+                  "name": "003.题型2-计算函数极限2（6题-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 61279169
+                },
+                {
+                  "name": "108.题型1 一阶微分方程（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59439561
+                },
+                {
+                  "name": "062.题型12 计算平面图形面积与旋转体体积1（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 100494528
+                },
+                {
+                  "name": "002.题型2-计算函数极限1（1题-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59355191
+                },
+                {
+                  "name": "120.题型1 数项级数敛散性判定2（6-11题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 70839094
+                },
+                {
+                  "name": "010.题型7 函数在一点连续与间断（6-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 96929193
+                },
+                {
+                  "name": "087.题型2 计算偏导数与全微分1（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 62446718
+                },
+                {
+                  "name": "125.题型5 函数的幂级数展开式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 69080400
+                },
+                {
+                  "name": "046.题型16  导数的经济应用新.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 82231877
+                },
+                {
+                  "name": "054.题型6 变限积分函数的性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 57819348
+                },
+                {
+                  "name": "051.题型4 定积分的性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 77908103
+                },
+                {
+                  "name": "105.题型6 无界区域上的二重积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 20306713
+                },
+                {
+                  "name": "020.题型10 柯西中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36206266
+                },
+                {
+                  "name": "052.题型5 定积分的计算2 （5-11题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59309648
+                },
+                {
+                  "name": "079.题型10 反常积分敛散性判定.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 77251656
+                },
+                {
+                  "name": "070.题型4 定积分的性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 77908103
+                },
+                {
+                  "name": "071.题型5 定积分的计算2 （5-11题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59309556
+                },
+                {
+                  "name": "031.题型1 导数的定义.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 137963409
+                },
+                {
+                  "name": "039.题型9 泰勒中值定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91769689
+                },
+                {
+                  "name": "080.题型11 反常积分的计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 32742048
+                },
+                {
+                  "name": "041.题型11 曲线的凹凸性与拐点.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 89909974
+                },
+                {
+                  "name": "023.题型13 曲线的凹凸性与拐点.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 89906632
+                },
+                {
+                  "name": "045.题型15 方程根或零点个数问题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 92668473
+                },
+                {
+                  "name": "030.题型 参数方程求导 （数学一、二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 152961938
+                }
+              ]
+            },
+            {
+              "name": "01.近年真题逐年讲解带刷【14年-25年】",
+              "children": [
+                {
+                  "name": "025.2015年概率真题（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 54602373
+                },
+                {
+                  "name": "141.2024数学一（7）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 9259719
+                },
+                {
+                  "name": "144.2024数学一（10）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36058820
+                },
+                {
+                  "name": "057.2018年高数真题数学一、二公共（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 53364277
+                },
+                {
+                  "name": "069.2019年高数真题数学一、二公共（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 27508769
+                },
+                {
+                  "name": "129.2023年高数真题数学一单独（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 33957074
+                },
+                {
+                  "name": "080.2020年高数真题数学一、二、三公共（22-24题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 65475120
+                },
+                {
+                  "name": "107.2022年高数真题数学一单独（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41260702
+                },
+                {
+                  "name": "184.2024数学三（7）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 13658256
+                },
+                {
+                  "name": "028.2016年高数真题数学一、二、三公共（13-18题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 46585167
+                },
+                {
+                  "name": "121.2023年概率真题（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91819717
+                },
+                {
+                  "name": "104.2022年高数真题数学一、二、三公共（24-25题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 72998405
+                },
+                {
+                  "name": "070.2019年高数真题数学一、三公共（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41977288
+                },
+                {
+                  "name": "155.2024数学一（22）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 24212658
+                },
+                {
+                  "name": "118.2023年高数真题数学一单独（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 33957074
+                },
+                {
+                  "name": "179.2024数学三（2）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 2487603
+                },
+                {
+                  "name": "192.2024数学三（15）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5867872
+                },
+                {
+                  "name": "061.2018年线代真题（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 105460793
+                },
+                {
+                  "name": "043.2017年高数真题数学一、二、三公共（18-20题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 56075364
+                },
+                {
+                  "name": "054.2018年高数真题数学一、二、三公共（16-18题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 52956510
+                },
+                {
+                  "name": "113.2023年高数真题数学一、二、三公共（11-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 53525479
+                },
+                {
+                  "name": "188.2024数学三（11）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7119345
+                },
+                {
+                  "name": "101.2022年高数真题数学一、二、三公共（8-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 60383260
+                },
+                {
+                  "name": "039.2016年概率真题数学一单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 3563615
+                },
+                {
+                  "name": "154.2024数学一（21）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 19785573
+                },
+                {
+                  "name": "133.2024数学一（1）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 8640146
+                },
+                {
+                  "name": "002.14年高数真题（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 82866017
+                },
+                {
+                  "name": "035.2016年高数真题数学三单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 15121818
+                },
+                {
+                  "name": "191.2024数学三（14）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6596103
+                },
+                {
+                  "name": "044.2017年高数真题数学一、二、三公共（21-23题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 52822278
+                },
+                {
+                  "name": "110.2022年概率真题（1-8题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 102295750
+                },
+                {
+                  "name": "106.2022年高数真题数学一、三公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 47486698
+                },
+                {
+                  "name": "164.2024数学二（9）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6031530
+                },
+                {
+                  "name": "027.2016年高数真题数学一、二、三公共（7-12题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 43687560
+                },
+                {
+                  "name": "014.2015高数真题（6-11题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 64932977
+                },
+                {
+                  "name": "090.2021年高数真题数学一、二、三公共（16-18题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 30842118
+                },
+                {
+                  "name": "114.2023年高数真题数学一、二、三公共（16-19题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 73856368
+                },
+                {
+                  "name": "197.2024数学三（20）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 52660309
+                },
+                {
+                  "name": "099.2021概率真题数一单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 8627489
+                },
+                {
+                  "name": "055.2018年高数真题数学一、二、三公共（19-20题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 37612227
+                },
+                {
+                  "name": "150.2024数学一（17）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 32480798
+                },
+                {
+                  "name": "077.2020年高数真题数学一、二、三公共（7-12题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 61514317
+                },
+                {
+                  "name": "163.2024数学二（8）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7773471
+                },
+                {
+                  "name": "161.2024数学二（6）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 3856252
+                },
+                {
+                  "name": "112.2023年高数真题数学一、二、三公共（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 45661189
+                },
+                {
+                  "name": "183.2024数学三（6）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 8258938
+                },
+                {
+                  "name": "119.2023年高数真题数学三单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 8354358
+                },
+                {
+                  "name": "088.2021年高数真题数学一、二、三公共（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 57357400
+                },
+                {
+                  "name": "145.2024数学一（12）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5221812
+                },
+                {
+                  "name": "169.2024数学二（14）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 2386509
+                },
+                {
+                  "name": "093.2021年高数真题数学一、二公共（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 27224875
+                },
+                {
+                  "name": "170.2024数学二（15）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 3472435
+                },
+                {
+                  "name": "016.2015年高数真题（17-19题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 37676473
+                },
+                {
+                  "name": "040.2017年高数真题数学一、二、三公共（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 63173864
+                },
+                {
+                  "name": "186.2024数学三（9）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 16219667
+                },
+                {
+                  "name": "151.2024数学一（18）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 61108582
+                },
+                {
+                  "name": "049.2017年线代真题（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59826903
+                },
+                {
+                  "name": "022.2015年高数真题数学一单独（30-32题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 68249495
+                },
+                {
+                  "name": "131.2023年线代真题（1-9题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 117063507
+                },
+                {
+                  "name": "063.2018年概率真题数学一单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 15376481
+                },
+                {
+                  "name": "091.2021年高数真题数学一、二、三公共（19-21题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 69580920
+                },
+                {
+                  "name": "162.2024数学二（7）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 17428082
+                },
+                {
+                  "name": "050.2017年概率真题（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 85784242
+                },
+                {
+                  "name": "074.2019年线代真题数学一单独（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 20333529
+                },
+                {
+                  "name": "062.2018年概率真题数学一、三公共（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 68601490
+                },
+                {
+                  "name": "007.2014年高数真题数学一、二公共（26-28题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 20485569
+                },
+                {
+                  "name": "135.2024数学一（3）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 8144735
+                },
+                {
+                  "name": "048.2017年高数数三单独（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7377201
+                },
+                {
+                  "name": "001.2014年真题 高数部分（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55545833
+                },
+                {
+                  "name": "012.2014概率真题（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 106770253
+                },
+                {
+                  "name": "128.2023高数真题数学一、三公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 21932216
+                },
+                {
+                  "name": "047.2017年高数真题数学一单独（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41178397
+                },
+                {
+                  "name": "111.2023年高数真题数学一、二、三公共（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 64817189
+                },
+                {
+                  "name": "180.2024数学三（3）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 4127957
+                },
+                {
+                  "name": "171.2024数学二（16）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 9788849
+                },
+                {
+                  "name": "015.2015年高数真题（12-16题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 27112462
+                },
+                {
+                  "name": "134.2024数学一（2）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5804623
+                },
+                {
+                  "name": "130.2023年高数真题数学三单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 8354358
+                },
+                {
+                  "name": "127.2023年高数真题数学一、二公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 21752515
+                },
+                {
+                  "name": "137.2024数学一（4）1.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 10876944
+                },
+                {
+                  "name": "024.2015年线代真题数学一单独（7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 32695730
+                },
+                {
+                  "name": "004.2014年高数真题（17-19题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 49718783
+                },
+                {
+                  "name": "017.2015年高数真题（20-22题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55334703
+                },
+                {
+                  "name": "102.2022年高数真题数学一、二、三公共（15-20题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 37844185
+                },
+                {
+                  "name": "181.2024数学三（4）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 8144528
+                },
+                {
+                  "name": "190.2024数学三（13）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6481171
+                },
+                {
+                  "name": "065.2019年高数真题数学一、二、三公共（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 26436278
+                },
+                {
+                  "name": "178.2024数学三（1）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6815368
+                },
+                {
+                  "name": "071.2019年高数真题数学一单独（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55822216
+                },
+                {
+                  "name": "094.2021年高数真题数学一、三公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 44333937
+                },
+                {
+                  "name": "038.2016年概率真题数学一、三公共（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 119303103
+                },
+                {
+                  "name": "086.2020年线代真题（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 110394522
+                },
+                {
+                  "name": "126.2023年高数真题数学一、二、三公共（20-22题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 98040144
+                },
+                {
+                  "name": "095.2021年高数真题数学一单独（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 65281019
+                },
+                {
+                  "name": "199.2024数学三（22）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 29024428
+                },
+                {
+                  "name": "173.2024数学二（18）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 24062683
+                },
+                {
+                  "name": "096.2021年高数真题数学三单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6519658
+                },
+                {
+                  "name": "036.2016年线代真题数学一、二、三公共（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91257730
+                },
+                {
+                  "name": "198.2024数学三（21）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 49326074
+                },
+                {
+                  "name": "092.21年漏掉题目.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 39103263
+                },
+                {
+                  "name": "034.2016年高数真题数学一单独（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 44585534
+                },
+                {
+                  "name": "176.2024数学二（21）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 47970416
+                },
+                {
+                  "name": "097.2021年线代真题（1-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 107086584
+                },
+                {
+                  "name": "089.2021年高数真题数学一、二、三公共（8-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 30746946
+                },
+                {
+                  "name": "084.2020年高数真题数学一单独（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 56986116
+                },
+                {
+                  "name": "105.2022年高数真题数学一、二公共（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 18503795
+                },
+                {
+                  "name": "193.2024数学三（16）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5436177
+                },
+                {
+                  "name": "059.2018年高数真题数学一单独（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 37175362
+                },
+                {
+                  "name": "053.2018年高数真题数学一、二、三公共（11-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 35918419
+                },
+                {
+                  "name": "168.2024数学二（13）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 4662374
+                },
+                {
+                  "name": "167.2024数学二（12）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6148816
+                },
+                {
+                  "name": "032.2016年高数真题数学一、二公共（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 73385304
+                },
+                {
+                  "name": "081.2020年高数真题数学一、二、三公共（25-26题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 62715148
+                },
+                {
+                  "name": "158.2024数学二（3）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6000457
+                },
+                {
+                  "name": "085.2020年高数真题数学三单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7620793
+                },
+                {
+                  "name": "172.2024数学二（17）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 22271579
+                },
+                {
+                  "name": "143.2024数学一（9）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 14370183
+                },
+                {
+                  "name": "117.2023高数真题数学一、三公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 21932216
+                },
+                {
+                  "name": "013.2015年高数真题（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 47035857
+                },
+                {
+                  "name": "026.2016年高数真题数学一、二、三公共（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 76081870
+                },
+                {
+                  "name": "177.2024数学二（22）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 24946320
+                },
+                {
+                  "name": "083.2020年高数真题数学一、三公共（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 63642344
+                },
+                {
+                  "name": "003.2014高数（11-16题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 44941968
+                },
+                {
+                  "name": "072.2019年高数真题数学三单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5714918
+                },
+                {
+                  "name": "142.2024数学一（8）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6212340
+                },
+                {
+                  "name": "060.2018年高数真题数学三单独（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 13230643
+                },
+                {
+                  "name": "182.2024数学三（5）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1162173
+                },
+                {
+                  "name": "152.2024数学一（19）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 52659293
+                },
+                {
+                  "name": "011.2014年线代真题（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 88667426
+                },
+                {
+                  "name": "115.2023年高数真题数学一、二、三公共（20-22题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 98040144
+                },
+                {
+                  "name": "196.2024数学三（19）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 12402919
+                },
+                {
+                  "name": "103.2022年高数真题数学一、二、三公共（21-23题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 47766142
+                },
+                {
+                  "name": "147.2024数学一（14）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 4899446
+                },
+                {
+                  "name": "037.2016年线代真题数学一单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 9772655
+                },
+                {
+                  "name": "033.2016年高数真题数学一、三公共（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 71784448
+                },
+                {
+                  "name": "174.2024数学二（19）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 11771141
+                },
+                {
+                  "name": "087.2020年概率真题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 107761001
+                },
+                {
+                  "name": "078.2020年高数真题数学一、二、三公共（13-17题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36761043
+                },
+                {
+                  "name": "076.2020年高数真题数学一、二、三公共（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 60808550
+                },
+                {
+                  "name": "023.2015年线代真题数学一、二、三公共（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 81581412
+                },
+                {
+                  "name": "140.2024数学一（6）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 18762268
+                },
+                {
+                  "name": "148.2024数学一（15）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 11373546
+                },
+                {
+                  "name": "149.2024数学一（16）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5436397
+                },
+                {
+                  "name": "194.2024数学三（17）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 24172350
+                },
+                {
+                  "name": "068.2019年高数真题数学一、二、三公共（21-25题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 117199702
+                },
+                {
+                  "name": "056.2018年高数真题数学一、二、三公共（21-22题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 31781363
+                },
+                {
+                  "name": "132.2023年概率真题（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91819717
+                },
+                {
+                  "name": "153.2024数学一（20）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41286032
+                },
+                {
+                  "name": "166.2024数学二（11）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5239675
+                },
+                {
+                  "name": "066.2019年高数真题数学一、二、三公共（11-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 35875394
+                },
+                {
+                  "name": "160.2024数学二（5）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 18960449
+                },
+                {
+                  "name": "073.2019年线代真题数学一、二、三公共（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 87174626
+                },
+                {
+                  "name": "020.2015年高数真题数学一、三公共（27-28题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 22199925
+                },
+                {
+                  "name": "052.2018年高数真题数学一、二、三公共（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 24578485
+                },
+                {
+                  "name": "019.2015年高数真题数学一、二公共（25-26题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 20197757
+                },
+                {
+                  "name": "125.2023年高数真题数学一、二、三公共（16-19题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 73856368
+                },
+                {
+                  "name": "045.2017年高数真题数学一、二公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 12365814
+                },
+                {
+                  "name": "156.2024数学二（1）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 11204569
+                },
+                {
+                  "name": "046.2017年高数真题数学一、三公共（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 68678140
+                },
+                {
+                  "name": "187.2024数学三（10）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36055060
+                },
+                {
+                  "name": "116.2023年高数真题数学一、二公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 21752515
+                },
+                {
+                  "name": "157.2024数学二（2）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 2860977
+                },
+                {
+                  "name": "005.2014高数20-22题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 60661279
+                },
+                {
+                  "name": "058.2018年高数真题数学一、三公共（1-2题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 21194314
+                },
+                {
+                  "name": "009.2014年高数数学三单独（31题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5485950
+                },
+                {
+                  "name": "165.2024数学二（10）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 15889187
+                },
+                {
+                  "name": "123.2023年高数真题数学一、二、三公共（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 45661189
+                },
+                {
+                  "name": "195.2024数学三（18）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 28262826
+                },
+                {
+                  "name": "010.2014年高数真题数学一单独（32-34题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 60183813
+                },
+                {
+                  "name": "124.2023年高数真题数学一、二、三公共（11-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 53525479
+                },
+                {
+                  "name": "064.2019年高数数学一、二、三公共（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 54788845
+                },
+                {
+                  "name": "006.2014年高数真题（23-25题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 59883895
+                },
+                {
+                  "name": "100.2022年高数真题数学一、二、三公共（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 57699048
+                },
+                {
+                  "name": "146.2024数学一（13）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6838652
+                },
+                {
+                  "name": "029.2016年高数真题数学一、二、三公共（19-21题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41196585
+                },
+                {
+                  "name": "042.2017年高数真题数学一、二、三公共（15-17题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 22514599
+                },
+                {
+                  "name": "030.2016年高数真题数学一、二、三公共（22-24题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 71623963
+                },
+                {
+                  "name": "082.2020年高数真题数学一、二公共（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 38456810
+                },
+                {
+                  "name": "018.2015年高数真题（23-24题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 45429815
+                },
+                {
+                  "name": "175.2024数学二（20）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 26885506
+                },
+                {
+                  "name": "109.2022年线代真题数学一、二、三公共（1-9题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 125397575
+                },
+                {
+                  "name": "098.2021年概率真题数学一、三公共（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 68825725
+                },
+                {
+                  "name": "185.2024数学三（8）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 5217451
+                },
+                {
+                  "name": "139.2024数学一（5）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 9631119
+                },
+                {
+                  "name": "031.2016年高数真题公共部分（25-26题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 72210560
+                },
+                {
+                  "name": "136.2024数学一（4）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 14876358
+                },
+                {
+                  "name": "120.2023年线代真题（1-9题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 117063507
+                },
+                {
+                  "name": "075.2019年概率真题.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 60797293
+                },
+                {
+                  "name": "122.2023年高数真题数学一、二、三公共（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 64817189
+                },
+                {
+                  "name": "159.2024数学二（4）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 6026912
+                },
+                {
+                  "name": "008.2014年高数真题数学一、三公共（29题-30题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 45455440
+                },
+                {
+                  "name": "041.2017年高数真题数学一、二、三公共（8-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 36055708
+                },
+                {
+                  "name": "189.2024数学三（12）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7695518
+                },
+                {
+                  "name": "051.2018高数真题数学一、二、三公共（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 53683817
+                },
+                {
+                  "name": "067.2019年高数真题数学一、二、三公共（16-20题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91764184
+                },
+                {
+                  "name": "138.2024数学一（4）2.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 7000194
+                },
+                {
+                  "name": "108.2022年高数真题数学三单独（1题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 34195488
+                },
+                {
+                  "name": "021.2015年高数真题数学三单独（29题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 19654685
+                },
+                {
+                  "name": "079.2020年高数真题数学一、二、三公共（18-21题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 49261482
+                }
+              ]
+            },
+            {
+              "name": "03.线代真金题1题1讲解【02年-13年】",
+              "children": [
+                {
+                  "name": "07.题型4 矩阵的秩.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 73264934
+                },
+                {
+                  "name": "11.题型1 方程解的判定.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 111495699
+                },
+                {
+                  "name": "21.题型4 对角化的应用.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 135010602
+                },
+                {
+                  "name": "04.题型1 逆矩阵.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91495165
+                },
+                {
+                  "name": "09.题型2 向量的相关性（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55960975
+                },
+                {
+                  "name": "10.题型2 向量的相关性2（7-11）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 76445019
+                },
+                {
+                  "name": "15.题型4 矩阵方程.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 52701670
+                },
+                {
+                  "name": "14.题型3 求解抽象线性方程组.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 91129128
+                },
+                {
+                  "name": "17.题型 计算特征值与特征向量2（5-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 93869553
+                },
+                {
+                  "name": "03.题型2 抽象行列式计算2（6-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 58455318
+                },
+                {
+                  "name": "01.题型1 具体行列式计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 130257792
+                },
+                {
+                  "name": "23.题型1 化二次型为标准形1（1-6题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 79359674
+                },
+                {
+                  "name": "05.题型2 伴随矩阵.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41377114
+                },
+                {
+                  "name": "12.题型2 求解具体线性方程组1(1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 110901214
+                },
+                {
+                  "name": "24.题型1 化二次型为标准形2（7-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 100978462
+                },
+                {
+                  "name": "20.题型3 实对称矩阵的对角化.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 101204434
+                },
+                {
+                  "name": "06.题型3 初等矩阵.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 71148746
+                },
+                {
+                  "name": "13.题型2 求解具体线性方程组2（5-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 107886819
+                },
+                {
+                  "name": "18.题型1 计算特征值与特征向量(1-4题).mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 45527839
+                },
+                {
+                  "name": "22.题型 2 矩阵的相似与合同.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 26793722
+                },
+                {
+                  "name": "08.题型1 向量的线性表示.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 113890718
+                },
+                {
+                  "name": "16.题型5 公共解与同解.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 106857709
+                },
+                {
+                  "name": "19.题型2 矩阵的对角化.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 124288998
+                },
+                {
+                  "name": "02.题型2 抽象行列式计算（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 41459338
+                },
+                {
+                  "name": "26.题型4 数学一单独.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 32163371
+                },
+                {
+                  "name": "25.题型3 正定二次型.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 81241188
+                }
+              ]
+            },
+            {
+              "name": "05.概率论冲刺串讲",
+              "children": [
+                {
+                  "name": "01.概率论冲刺串讲-1.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1620509869
+                },
+                {
+                  "name": "02.概率论冲刺串讲-2.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1527139203
+                }
+              ]
+            },
+            {
+              "name": "04.概率论真金题1题1讲解【02年-13年】",
+              "children": [
+                {
+                  "name": "16.题型3 两个连续型随机变量函数的分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 99767957
+                },
+                {
+                  "name": "12.题型6 求随机变量的分布函数.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 46988166
+                },
+                {
+                  "name": "26.题型1 矩估计与最大似然估计1（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 54602314
+                },
+                {
+                  "name": "27.题型1 矩估计与最大似然估计2（5-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 97866449
+                },
+                {
+                  "name": "10.题型4 连续型的常见分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 45036900
+                },
+                {
+                  "name": "22.题型2  大数定律与中心极限定理.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 39664577
+                },
+                {
+                  "name": "01.题型1 概率的性质与计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 38392516
+                },
+                {
+                  "name": "08.题型2 一维离散型随机变量及其分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 33030795
+                },
+                {
+                  "name": "15.题型2 二维连续型随机变量及其分布1（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 76630482
+                },
+                {
+                  "name": "13.题型1 二维离散型随机变量及其分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 46753576
+                },
+                {
+                  "name": "25.题型1 计算统计量的数字特征2（4-9题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 55966637
+                },
+                {
+                  "name": "20.题型2 协方差与相关系数的计算.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 117027178
+                },
+                {
+                  "name": "18.题型1 计算随机变量的期望与方差1（1-4题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 67836406
+                },
+                {
+                  "name": "02.题型 2 几何概型.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 12182928
+                },
+                {
+                  "name": "21.题型1 切片雪夫不等式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 11351770
+                },
+                {
+                  "name": "17.题型4 离散与连续型随机变量函数的分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 49301720
+                },
+                {
+                  "name": "07.题型1  分布函数的概念及性质.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 26988066
+                },
+                {
+                  "name": "28.题型2 正态总体抽样及三大分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 63927173
+                },
+                {
+                  "name": "24.题型1 计算统计量的数字特征1（1-3题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 60552287
+                },
+                {
+                  "name": "23.题型 数学一单独.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 42284523
+                },
+                {
+                  "name": "11.题型5 一维随机变量函数的分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 120927778
+                },
+                {
+                  "name": "06.题型6 伯努利概型.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 18877855
+                },
+                {
+                  "name": "05.题型5 事件的独立性.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 47688125
+                },
+                {
+                  "name": "19.题型1 计算随机变量的期望与方差2（5-13题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 88784731
+                },
+                {
+                  "name": "04.题型4 全概公式与贝叶斯公式.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 22398869
+                },
+                {
+                  "name": "14.题型2 二维连续型及其分布2（6-9题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 52849317
+                },
+                {
+                  "name": "03.题型3 条件概率.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 25862606
+                },
+                {
+                  "name": "09.题型3 一维连续型随机变量及其分布.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 45325418
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "02.基础精讲阶段",
+          "children": [
+            {
+              "name": "07.概率必刷基础题带刷带练",
+              "children": [
+                {
+                  "name": "05.第6讲 数理统计（1-21题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 426620956
+                },
+                {
+                  "name": "03.第4讲 随机变量的数字特征（1-18题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 352281857
+                },
+                {
+                  "name": "02.第3讲 多维随机变量及其分布（1-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 417855916
+                },
+                {
+                  "name": "04.第5讲 大数定律与中心极限定理（1-7题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 195666318
+                },
+                {
+                  "name": "01.第2讲 一维随机变量及其分布（1-18题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 341015194
+                },
+                {
+                  "name": "00.第1讲 随机事件与概率（1-11题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 177212221
+                }
+              ]
+            },
+            {
+              "name": "02.高数基础精讲",
+              "children": [
+                {
+                  "name": "18 第五章 定积分及其应用（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 685167694
+                },
+                {
+                  "name": "07 第二章 导数与微分（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 368592603
+                },
+                {
+                  "name": "33 第七章 微分方程（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 310422960
+                },
+                {
+                  "name": "26 第五章 定积分及其应用（九）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 190182073
+                },
+                {
+                  "name": "31 第六章 多元函数微分学（四）数学一 (1).mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 740279077
+                },
+                {
+                  "name": "47 数学一 积分专题--曲面积分（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 851743474
+                },
+                {
+                  "name": "35 第七章 微分方程（三） (1).mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 360805204
+                },
+                {
+                  "name": "46 数学一 积分专题--曲面积分（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 592795720
+                },
+                {
+                  "name": "31 第六章 多元函数微分学（四）数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 386414208
+                },
+                {
+                  "name": "25 第五章 定积分及其应用（八）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 446972109
+                },
+                {
+                  "name": "45 数学一 积分专题--曲线积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 951792018
+                },
+                {
+                  "name": "17 第四章 不定积分（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 877468579
+                },
+                {
+                  "name": "39 第九章 级数（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 575465124
+                },
+                {
+                  "name": "29 第六章 多元函数微分学（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 676240422
+                },
+                {
+                  "name": "40 第九章 级数（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 861912308
+                },
+                {
+                  "name": "35 第七章 微分方程（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 206292320
+                },
+                {
+                  "name": "06 第二章 导数与微分（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 392297135
+                },
+                {
+                  "name": "11 一元函数微分学及应用（四）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 458743228
+                },
+                {
+                  "name": "15 一元函数微分学及应用（八）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 499958755
+                },
+                {
+                  "name": "05 第二章 导数与微分（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 299834672
+                },
+                {
+                  "name": "37 第八章 二重积分（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 526719881
+                },
+                {
+                  "name": "02 第一章 极限与连续 1_1 极限（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 563649347
+                },
+                {
+                  "name": "01 第一章 极限与连续 1_1 极限（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 522922826
+                },
+                {
+                  "name": "38 第九章 级数（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 769995116
+                },
+                {
+                  "name": "28 第 六章 多元函数微分学（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 524448944
+                },
+                {
+                  "name": "21 第五章 定积分及其应用（四）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 541714547
+                },
+                {
+                  "name": "12 一元函数微分学及应用（五）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 515076596
+                },
+                {
+                  "name": "44 数学一 积分专题--三重积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 528250740
+                },
+                {
+                  "name": "22 第五章 定积分及其应用（五）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 252917113
+                },
+                {
+                  "name": "41 第九章 级数（四）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 605241120
+                },
+                {
+                  "name": "34 第七章 微分方程（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 593654796
+                },
+                {
+                  "name": "03 第一章 极限与连续 1_2 连续与间断（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 782488292
+                },
+                {
+                  "name": "10 一元函数微分学及应用（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 668241858
+                },
+                {
+                  "name": "23 第五章 定积分及其应用（六）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 442813571
+                },
+                {
+                  "name": "36 第八章 二重积分（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 663596012
+                },
+                {
+                  "name": "27 第五章 定积分及其应用（十）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 529736019
+                },
+                {
+                  "name": "24 第五章 定积分及其应用（七）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 438943721
+                },
+                {
+                  "name": "19 第五章 定积分及其应用（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 773544552
+                },
+                {
+                  "name": "16 第四章 不定积分（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 577973584
+                },
+                {
+                  "name": "14 一元函数微分学及应用（七）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 440051502
+                },
+                {
+                  "name": "13 一元函数微分学及应用（六）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 350868354
+                },
+                {
+                  "name": "32 第六章 多元函数微分学（五）数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 469354701
+                },
+                {
+                  "name": "43 第十章 空间解析几何（二）数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 750080076
+                },
+                {
+                  "name": "20 第五章 定积分及其应用（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 778453000
+                },
+                {
+                  "name": "30 第六章 多元函数微分学（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 575736839
+                },
+                {
+                  "name": "09 一元函数微分学及应用（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 324365531
+                },
+                {
+                  "name": "08 一元函数微分学及应用（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 666529625
+                },
+                {
+                  "name": "42 第十章 空间解析几何（一）数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 341436924
+                },
+                {
+                  "name": "04 第一章 极限与连续 1_2 连续与间断（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 467710151
+                },
+                {
+                  "name": "33 第七章 微分方程（一） (1).mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 573511958
+                }
+              ]
+            },
+            {
+              "name": "03.线代基础精讲",
+              "children": [
+                {
+                  "name": "01.线代基础精讲--1.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1224239849
+                },
+                {
+                  "name": "02.线代基础精讲--2.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1255568596
+                },
+                {
+                  "name": "09.线代基础精讲--9.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 890085732
+                },
+                {
+                  "name": "08.线代基础精讲--8.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1336786127
+                },
+                {
+                  "name": "06.线代基础精讲--6.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 947782018
+                },
+                {
+                  "name": "05.线代基础精讲--5.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1226501112
+                },
+                {
+                  "name": "07.线代基础精讲--7.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1206846756
+                },
+                {
+                  "name": "03.线代基础精讲--3.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1223614772
+                },
+                {
+                  "name": "线代基础精讲--10.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1363189034
+                },
+                {
+                  "name": "04.线代基础精讲--4.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1133567581
+                }
+              ]
+            },
+            {
+              "name": "06.线代必刷基础题带刷带练",
+              "children": [
+                {
+                  "name": "05.第5讲 特征值与特征向量（1-18题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 518988909
+                },
+                {
+                  "name": "02.第2讲 矩阵（1-16题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 147352089
+                },
+                {
+                  "name": "04.第4讲 线性方程组（1-17题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 644659575
+                },
+                {
+                  "name": "01.第1讲 行列式（1-12题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 217353565
+                },
+                {
+                  "name": "06.第6讲 二次型（1-19题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 446831723
+                },
+                {
+                  "name": "03.第3讲 向量组（1-16题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 301296232
+                }
+              ]
+            },
+            {
+              "name": "04.概率论基础精讲",
+              "children": [
+                {
+                  "name": "05.概率论基础精讲-5.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 453306223
+                },
+                {
+                  "name": "03.概率论基础精讲-3.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 550854124
+                },
+                {
+                  "name": "08.概率论基础精讲-8.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 435210504
+                },
+                {
+                  "name": "09.概率论基础精讲-9.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 475179525
+                },
+                {
+                  "name": "07.概率论基础精讲-7.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 331543213
+                },
+                {
+                  "name": "06.概率论基础精讲-6.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 495917097
+                },
+                {
+                  "name": "04.概率论基础精讲-4.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 411773709
+                },
+                {
+                  "name": "10.概率论基础精讲-10.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 423173782
+                },
+                {
+                  "name": "11.概率论基础精讲-11.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 342319226
+                },
+                {
+                  "name": "02.概率论基础精讲-2.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 544733864
+                },
+                {
+                  "name": "12.概率论基础精讲-L12.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 581142486
+                },
+                {
+                  "name": "01.概率论基础精讲-1.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 519094162
+                }
+              ]
+            },
+            {
+              "name": "01.班会-基础阶段学习指南、规划、注意事项",
+              "children": [
+                {
+                  "name": "班会-基础阶段学习指南+注意事项.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1105337714
+                }
+              ]
+            },
+            {
+              "name": "05.高数必刷基础题带刷带练",
+              "children": [
+                {
+                  "name": "18.第18讲 三重积分、曲线曲面积分（仅数一）（1-13题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 670059004
+                },
+                {
+                  "name": "08.第8讲 一元函数积分学的概念与计算（1-16题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 257790852
+                },
+                {
+                  "name": "12.第12讲 二重积分（1-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 227382364
+                },
+                {
+                  "name": "13.第13讲 常微分方程（1-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 479796890
+                },
+                {
+                  "name": "02.第2讲 数列极限(1-11题).mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 308511399
+                },
+                {
+                  "name": "15.第15讲 数学一、数学二专题内容（1-10题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 523074139
+                },
+                {
+                  "name": "14.第14讲 无穷级数（1-15题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 347514379
+                },
+                {
+                  "name": "16.第16讲 数学三专题内容（1-9题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 153720859
+                },
+                {
+                  "name": "10.第10讲 积分等式与积分不等式（1-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 426725381
+                },
+                {
+                  "name": "11.第11讲 多元函数微分学（1-16题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 394443136
+                },
+                {
+                  "name": "03.第3讲 函数极限与连续性（1-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 217482478
+                },
+                {
+                  "name": "04.第4讲 一元函数微分学的概念与计算（1-16题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 263823645
+                },
+                {
+                  "name": "05.第5讲 一元函数微分学的几何应用（1-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 247163340
+                },
+                {
+                  "name": "01.第1讲 高等数学预备知识（1-5题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 164829163
+                },
+                {
+                  "name": "06.第6讲 中值定理（1-8题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 283066279
+                },
+                {
+                  "name": "09.第9讲 一元函数积分学的几何应用（1-14题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 382102737
+                },
+                {
+                  "name": "17.第17讲 多元函数积分学的基础知识（仅数一要求）（1-12题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 300996558
+                },
+                {
+                  "name": "07.第7讲 零点定理与微分不等式（1-8题）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 190279708
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "03.强化提升阶段",
+          "children": [
+            {
+              "name": "03.概率论强化巩固",
+              "children": [
+                {
+                  "name": "10.概率论强化巩固10.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1032345875
+                },
+                {
+                  "name": "01.概率论强化巩固-1.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 596541254
+                },
+                {
+                  "name": "07.概率论强化巩固7.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 838230257
+                },
+                {
+                  "name": "02.概率论强化巩固-2.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 511116517
+                },
+                {
+                  "name": "08.概率论强化巩固8.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 997614820
+                },
+                {
+                  "name": "04.概率论强化巩固4.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 968203919
+                },
+                {
+                  "name": "09.概率论强化巩固9.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1037971980
+                },
+                {
+                  "name": "06.概率论强化巩固6.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1140829367
+                },
+                {
+                  "name": "03.概率论强化巩固3.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 640040249
+                },
+                {
+                  "name": "05.概率论强化巩固5.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 834718538
+                }
+              ]
+            },
+            {
+              "name": "02.线代强化巩固",
+              "children": [
+                {
+                  "name": "06.线代强化巩固-6.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1406559030
+                },
+                {
+                  "name": "08.线代强化巩固-8.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1199883909
+                },
+                {
+                  "name": "04.线代强化巩固-4.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 941959777
+                },
+                {
+                  "name": "09.线代强化巩固-9.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 483616774
+                },
+                {
+                  "name": "02.线代强化巩固-2.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 955179038
+                },
+                {
+                  "name": "03.线代强化巩固-3.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 894799170
+                },
+                {
+                  "name": "07.线代强化巩固-7.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1336628187
+                },
+                {
+                  "name": "01.线代强化巩固-1.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1087993938
+                },
+                {
+                  "name": "05.线代强化巩固-5.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 1122820633
+                }
+              ]
+            },
+            {
+              "name": "01.高数强化巩固",
+              "children": [
+                {
+                  "name": "21 第四模块 微分方程（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 574107866
+                },
+                {
+                  "name": "05 第二模块 微分学（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 407707672
+                },
+                {
+                  "name": "32 数一积分专题 曲面积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 450683155
+                },
+                {
+                  "name": "16 第三模块 积分学（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 387012919
+                },
+                {
+                  "name": "30 数一积分专题 三重积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 321149069
+                },
+                {
+                  "name": "07 第二模块 微分学（四）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 620711200
+                },
+                {
+                  "name": "25 第五模块 级数（三）数学一 、数学三.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 684060104
+                },
+                {
+                  "name": "22 第四模块 微分方程（三）数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 180780508
+                },
+                {
+                  "name": "02 第一模块 极限（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 586041516
+                },
+                {
+                  "name": "15 第三模块 积分学（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 826081446
+                },
+                {
+                  "name": "23 第五模块 级数（一）数学一、数学三.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 417212291
+                },
+                {
+                  "name": "08 第二模块 微分学（五）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 654730546
+                },
+                {
+                  "name": "10 第二模块 微分学（七）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 251775497
+                },
+                {
+                  "name": "20 第四模块 微分方程（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 297178112
+                },
+                {
+                  "name": "01 第一模块 极限（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 549099149
+                },
+                {
+                  "name": "26 第五模块 级数（四）数学一、 数学三.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 377956246
+                },
+                {
+                  "name": "24 第五模块 级数（二）数学一 、数学三.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 281366252
+                },
+                {
+                  "name": "33 数一积分专题 曲线曲面积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 870504641
+                },
+                {
+                  "name": "29 第六模块 空间解析几何（二）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 440197097
+                },
+                {
+                  "name": "13 第二模块 微分学（十）数学一 (1).mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 324102051
+                },
+                {
+                  "name": "27 第五模块 级数（五）傅里叶级数 数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 485144507
+                },
+                {
+                  "name": "14 第三模块 积分学（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 473830907
+                },
+                {
+                  "name": "17 第三模块 积分学（四）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 686674590
+                },
+                {
+                  "name": "09 第二模块 微分学（六）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 650151615
+                },
+                {
+                  "name": "03 第一模块 极限（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 560854678
+                },
+                {
+                  "name": "18 第三模块 积分学（五）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 410357907
+                },
+                {
+                  "name": "19 第三模块 积分学（六）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 684034630
+                },
+                {
+                  "name": "06 第二模块 微分学（三）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 615658238
+                },
+                {
+                  "name": "13 第二模块 微分学（十）数学一.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 218963864
+                },
+                {
+                  "name": "12 第二模块 微分学（九）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 770398701
+                },
+                {
+                  "name": "31 数一积分专题 曲线积分.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 707384733
+                },
+                {
+                  "name": "11 第二模块 微分学（八）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 470936724
+                },
+                {
+                  "name": "04 第二模块 微分学（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 346444036
+                },
+                {
+                  "name": "28 第六模块 空间解析几何（一）.mp4",
+                  "extension": ".mp4",
+                  "sizeBytes": 352402596
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "26考研网盘每日更新二维码☆分享链接.jpg",
+          "extension": ".jpg",
+          "sizeBytes": 210029
+        }
+      ]
+    },
+    {
+      "name": "26考研网盘每日更新二维码☆分享链接.jpg",
+      "extension": ".jpg",
+      "sizeBytes": 210029
+    }
+  ]
+}
