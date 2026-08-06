@@ -8,6 +8,7 @@ sources/PATHS.local.md
 *.zip
 *.7z
 *.rar
+*.pdf
 
 # 临时文件
 *.tmp
